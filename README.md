@@ -1,4 +1,5 @@
-# Lab 2 - Telecom Billing System - LOCAL VERSION
+# Lab 2 - Telecom Billing System - FINAL MERGED VERSION
+
 ## Student Info
 - Name: Mubashar
 - Roll No: 61313
@@ -13,6 +14,3 @@
 - Package C: Rs. 800 (unlimited minutes)
 
 ## Sample Output
-## How to Run
-1. Compile: `javac Customer.java`
-2. Run: `java CustomerBilling`
