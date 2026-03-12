@@ -1,5 +1,4 @@
-# Lab 2 - Telecom Billing System
-
+# Lab 2 - Telecom Billing System - LOCAL VERSION
 ## Student Info
 - Name: Mubashar
 - Roll No: 61313
