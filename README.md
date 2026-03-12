@@ -14,3 +14,6 @@
 - Package C: Rs. 800 (unlimited minutes)
 
 ## Sample Output
+## How to Run
+1. Compile: `javac Customer.java`
+2. Run: `java CustomerBilling`
